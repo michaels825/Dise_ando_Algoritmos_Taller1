@@ -23,56 +23,56 @@ Esta es la clase padre de las figuras que se van a crear en programa. Esta va a 
 * getRadio:void: tomara el tamano de las figuras.
 * setInteractural: boolean: comprobara si el usuario esta o no interactuando con la interfaz.
 ***
-##FiguraA 
+## FiguraA 
 Es una figura que aparece en el lienzo, implementara herencia con la clase padre, la cual es Figura.
 ## Metodos
 * FiguraA(PApplet, int, int): este metodo es el responsable asignarle los valores para la creación de la figura. 
 * Pintar():void: se ejecutara en el momentos de pintar la figura.
 * Interactuar():void: se ejecutara en el momento en el que el usuario interactue con la figura. 
 ***
-##FiguraB 
+## FiguraB 
 Es una figura que aparece en el lienzo, implementara herencia con la clase padre, la cual es Figura.
 ## Metodos
 * FiguraB(PApplet, int, int): este metodo es el responsable asignarle los valores para la creación de la figura. 
 * Pintar():void: se ejecutara en el momentos de pintar la figura.
 * Interactuar():void: se ejecutara en el momento en el que el usuario interactue con la figura. 
 ***
-##FiguraC 
+## FiguraC 
 Es una figura que aparece en el lienzo, implementara herencia con la clase padre, la cual es Figura.
 ## Metodos
 * FiguraC(PApplet, int, int): este metodo es el responsable asignarle los valores para la creación de la figura. 
 * Pintar():void: se ejecutara en el momentos de pintar la figura.
 * Interactuar():void: se ejecutara en el momento en el que el usuario interactue con la figura. 
 ***
-##FiguraD 
+## FiguraD 
 Es una figura que aparece en el lienzo, implementara herencia con la clase padre, la cual es Figura.
 ## Metodos
 * FiguraD(PApplet, int, int): este metodo es el responsable asignarle los valores para la creación de la figura. 
 * Pintar():void: se ejecutara en el momentos de pintar la figura.
 * Interactuar():void: se ejecutara en el momento en el que el usuario interactue con la figura. 
 ***
-##FiguraE
+## FiguraE
 Es una figura que aparece en el lienzo, implementara herencia con la clase padre, la cual es Figura.
 ## Metodos
 * FiguraE(PApplet, int, int): este metodo es el responsable asignarle los valores para la creación de la figura. 
 * Pintar():void: se ejecutara en el momentos de pintar la figura.
 * Interactuar():void: se ejecutara en el momento en el que el usuario interactue con la figura. 
 ***
-##FiguraF 
+## FiguraF 
 Es una figura que aparece en el lienzo, implementara herencia con la clase padre, la cual es Figura.
 ## Metodos
 * FiguraF(PApplet, int, int): este metodo es el responsable asignarle los valores para la creación de la figura. 
 * Pintar():void: se ejecutara en el momentos de pintar la figura.
 * Interactuar():void: se ejecutara en el momento en el que el usuario interactue con la figura. 
 ***
-##FiguraG
+## FiguraG
 Es una figura que aparece en el lienzo, implementara herencia con la clase padre, la cual es Figura.
 ## Metodos
 * FiguraG(PApplet, int, int): este metodo es el responsable asignarle los valores para la creación de la figura. 
 * Pintar():void: se ejecutara en el momentos de pintar la figura.
 * Interactuar():void: se ejecutara en el momento en el que el usuario interactue con la figura. 
 ***
-##FiguraH
+## FiguraH
 Es una figura que aparece en el lienzo, implementara herencia con la clase padre, la cual es Figura.
 ## Metodos
 * FiguraH(PApplet, int, int): este metodo es el responsable asignarle los valores para la creación de la figura. 
